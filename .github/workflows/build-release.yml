@@ -1,0 +1,43 @@
+name: Build and Publish Modrinth Pack for Release
+
+# Trigger on release only
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout'
+        uses: actions/checkout@v4
+
+      - name: 'Download Packwiz Nightly'
+        run: |
+            cd ${{github.workspace}}
+            wget "https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip" -O packwiz.zip
+            unzip packwiz.zip
+            rm packwiz.zip
+        env:
+          GITHUB_TOKEN: ${{ github.TOKEN }}
+        shell: bash
+
+      - name: 'Build Modrinth mrpack'
+        run: |
+            cd ${{github.workspace}}
+            ./packwiz modrinth export -y -o Make2-${{github.event.release.tag_name}}.mrpack
+            rm packwiz
+        env:
+          GITHUB_TOKEN: ${{ github.TOKEN }}
+        shell: bash
+
+      - name: 'Attach to release'
+        run: |
+            cd ${{github.workspace}}
+            gh release upload ${{github.event.release.tag_name}} Make2-${{github.event.release.tag_name}}.mrpack
+        env:
+          GITHUB_TOKEN: ${{ github.TOKEN }}
+        shell: bash
