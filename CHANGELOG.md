@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.3.0 - An age of exploration
+## v0.3.0 - An age of exploration
 This update focuses on the world players inhabit, trying to spice it up (while
 still remaining true to the essence of Make²). The mods selected were picked
 specifically because they make use of vanilla blocks, and don't add too much
@@ -18,10 +18,10 @@ pack are likely to evolve over time, but for now this is a good start.
 * [+] [Noisium](https://modrinth.com/mod/noisium)
 
 
-## 0.2.1 - I'm still on a GTX 1080
+## v0.2.1 - I'm still on a GTX 1080
 This patch includes a new collection of mods in here all to improve performance.
 Which works out well because Minecraft (particularly modded) is in desperate
-need of all the performance it can get.
+need all the performance it can get.
 
 * [+] [Alternate Current](https://modrinth.com/mod/alternate-current)
 * [+] [Canary](https://modrinth.com/mod/canary)
@@ -32,22 +32,22 @@ need of all the performance it can get.
 * [+] [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
 
 As an aside, from here on out links to each of the mods added or removed from
-the modlist will be incuded within the changelog.
+the modlist will be included within the changelog.
 
 
-## 0.2.0 - What is this?
-This update adds Jade (and a small compatability addon to make it play well
+## v0.2.0 - What is this?
+This update adds Jade (and a small compatibility addon to make it play well
 with other mods, such as Create), so that players don't need to pull up the
 debug menu to figure out what block is in front of them.
 
-* [+] Jade
-* [+] Jade Addons
+* [+] [Jade](https://modrinth.com/mod/jade)
+* [+] [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
 
 As an aside, from here on out, new mods will be prefixed with a [+], and any
 removals (hopefully not a large number), will be prefixed with [-].
 
 
-## 0.1.0 - "Initial Commit"
+## v0.1.0 - "Initial Commit"
 This is Make² - a retooling of an in-dev modpack named "Make" that was running
 on a later version of Minecraft. The goal of the modpack is to retain a very
 vanilla feel, while still giving players the options of specializing down
@@ -56,6 +56,6 @@ specific ways-of-play.
 This version adds the mods that inspired the pack the most, and one addition to
 ensure players don't get too lost:
 
-* Create
-* Farmer's Delight
-* Just Enough Items
+* [+] [Create](https://modrinth.com/mod/create)
+* [+] [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
+* [+] [Just Enough Items](https://modrinth.com/mod/jei)
