@@ -1,5 +1,23 @@
 # Changelog
 
+## 0.3.0 - An age of exploration
+This update focuses on the world players inhabit, trying to spice it up (while
+still remaining true to the essence of Make²). The mods selected were picked
+specifically because they make use of vanilla blocks, and don't add too much
+beyond what is already expected in Minecraft. For now, this is a good balance.
+
+In addition, they both play well with Create and it's reliance on normally
+ignored stone variants, such as Andesite and Diorite and the use of Kelp as a
+key ingredient in the production of belts.
+
+The kinds of world generation considered fitting in with the "essence" of the
+pack are likely to evolve over time, but for now this is a good start.
+
+* [+] [William Wythers' Overhauled Overworld](https://modrinth.com/mod/wwoo)
+* [+] [Lithosphere](https://modrinth.com/datapack/lithosphere)
+* [+] [Noisium](https://modrinth.com/mod/noisium)
+
+
 ## 0.2.1 - I'm still on a GTX 1080
 This patch includes a new collection of mods in here all to improve performance.
 Which works out well because Minecraft (particularly modded) is in desperate

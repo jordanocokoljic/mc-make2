@@ -60,6 +60,26 @@ hash = "7cfcef2f1142baa641151461c3e8f99fcd84f6f9f447cbc16e069a03f5aee8ca"
 metafile = true
 
 [[files]]
+file = "mods/lithosphere.pw.toml"
+hash = "b1ad16e23fa53e02d3fb88904a273187b72470c5aaa467587806fe1cec4720f9"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "46b276b7afe9a1b5aa8de4fc15cdf50fbe44e485da6870c7b5f1f36c0845f276"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "77fa53a8466d39da52d38565818ead2df35fdc358a2af8d83e041b7863d87deb"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "871402a79e1bdd2cf2b4734570de354ecb16165bbf258ae7dad9b4334d5af7dc"
+metafile = true
+
+[[files]]
+file = "mods/wwoo.pw.toml"
+hash = "c07eb93318f18af24dd11854dded4cdc241e5b333561936d60283ac5d959d4f6"
 metafile = true
