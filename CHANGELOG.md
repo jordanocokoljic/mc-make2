@@ -1,5 +1,24 @@
 # Changelog
 
+## v0.5.1 - "I don't like games with those graphics"
+It's 2025, the time of the pixel aesthetic is over! The time of the pixel
+aesthetic with god rays is in! This version adds mods to make the visuals of
+the pack "better" (something something eye of the beholder).
+
+* [+] [Iris Shaders](https://modrinth.com/mod/iris)
+
+It also includes the following shaderpacks by default, as confusingly enough
+the people complaining that the graphics are bad, also are unwilling to search
+for a shader themselves.
+
+* [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined)
+* [Complementary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound)
+* [BSL Shaders](https://modrinth.com/shader/bsl-shaders)
+* [BSL Shaders - Classic](https://modrinth.com/shader/bsl-shaders-classic)
+
+Also, the LICENSE will no longer be included in every install.
+
+
 ## v0.5.0 - Off to Le Cordon Bleu
 Finally expanding more on the presence of Farmers Delight, this update adds a
 few mods that hopefully play into the food-growing-farming fantasy that many
