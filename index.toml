@@ -6,80 +6,75 @@ hash = "10026a6cc498034b553fdf5f317a5828c88d639290c6f5357c0f2e028f123d52"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "52a9031ceb9f0371f1c7826a95e6ff6ee1b304c499a7908d9ed2f10b02c5d8ff"
-metafile = true
-
-[[files]]
-file = "mods/canary.pw.toml"
-hash = "7f43a2e11019614dbc82e540ea7e649429bb35cf1adc06d69ce31949174762af"
+hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "119d501c87aef8afa8cf89ed6f17499518c21240d7781f4331e3007e57957a79"
-metafile = true
-
-[[files]]
-file = "mods/embeddium.pw.toml"
-hash = "9ddb37809dbf50f17ccfca4039149524ec0ed8f5838441a94fbb1de3a780c9b5"
+hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "0c631e85fc146e28aa2275bbf1d0b00ca4055d48b905cc3a2be05966f5d21847"
+hash = "78e6623084bd14f68ef1335ae8a419238c4119188b90fd9e71faf45c4f049942"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "22ceac3dd118087ae3f8d4254b81afa8a028edb1d9df39869320dfe84b55e319"
+hash = "867a029a8bed75bea2fb02e5186730db46ec01f970d0bdb266c6897074c16177"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "3b026ffc2963974cc8252d83e91587b5ac357ab2b59eb1e77e74e82eb3d635d6"
+hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
-hash = "3412b90fe637044ab6766da3af94b94876d8c0ce3b85a2a2fec02d1a5c0568fb"
+hash = "2d77b9bf28cab8308467ca7ed94bfa45435e72d8e9ea32dd872df60b89a6dc44"
 metafile = true
 
 [[files]]
 file = "mods/jade-addons-forge.pw.toml"
-hash = "f8312021fd88a4952e1d50a2f156fab65314f87658d7153efc56be76a422d5cd"
+hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "66a8d44f5ef66075063ced8b54312a46bb8a256090d36df877b8ff58de9d16be"
+hash = "652900870d343dda5683456934ca76bf176ea54da73d9883d8a13c9b3cae2fac"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7cfcef2f1142baa641151461c3e8f99fcd84f6f9f447cbc16e069a03f5aee8ca"
+hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
 file = "mods/lithosphere.pw.toml"
-hash = "b1ad16e23fa53e02d3fb88904a273187b72470c5aaa467587806fe1cec4720f9"
+hash = "aeba47c6bee62a0fac3055bea3c132081cca21dd6d3d30fae562394cb1be3bee"
 metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "46b276b7afe9a1b5aa8de4fc15cdf50fbe44e485da6870c7b5f1f36c0845f276"
-metafile = true
-
-[[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "77fa53a8466d39da52d38565818ead2df35fdc358a2af8d83e041b7863d87deb"
+hash = "47e2244b736fb660839538b160cc35e66f9f96e08e050c5e2cfd421dbe40eef7"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "871402a79e1bdd2cf2b4734570de354ecb16165bbf258ae7dad9b4334d5af7dc"
+hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "347cac2ed12c9bc0561b6a59eeb4c121b10e5f3f71d54e9bf8d1343af57ef5b8"
 metafile = true
 
 [[files]]
 file = "mods/wwoo.pw.toml"
-hash = "c07eb93318f18af24dd11854dded4cdc241e5b333561936d60283ac5d959d4f6"
+hash = "b8691fd91e8198d001e78d7ca82c9ab05aee6fb76bebb41b1b6fd6ca98ff29c9"
 metafile = true

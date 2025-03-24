@@ -1,13 +1,13 @@
 name = "Make²"
 author = "Zesty Modpack Authors"
-version = "0.3.0"
+version = "0.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "aa06e61c794d76b954bd2bdad6b72d68743ef0aebe0beffcd9c80c6f3eb9c8f0"
+hash = "671c5c53b67a794a3f5c832d9a12e0c65e9dfbd68d1ebcab310604d37c78edd9"
 
 [versions]
-minecraft = "1.20.1"
-neoforge = "47.1.106"
+minecraft = "1.21.1"
+neoforge = "21.1.138"

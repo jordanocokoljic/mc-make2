@@ -1,5 +1,25 @@
 # Changelog
 
+## v0.4.0 - Versioning is hard
+Many great mods only support the slightly newer Minecraft 1.21.1 - when first
+working on this pack, the assumption was made that holding back would broaden
+the options avaliable, but this assumption was wrong. To reflect this update
+in opinion, the target version of the game has been bumped to 1.21.1.
+
+* [-] [Canary](https://modrinth.com/mod/canary)
+* [+] [Lithium](https://modrinth.com/mod/lithium)
+* [-] [Embeddium](https://modrinth.com/mod/embeddium)
+* [+] [Sodium](https://modrinth.com/mod/sodium)
+* [-] [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
+
+The mods removed were culled because they either:
+1. Didn't support 1.21.1
+2. Were superseded by a more common option
+
+Anecdotally, there doesn't seem to be much of a performance change, which is
+good for both the players, and the sanity of the modpack assembly team.
+
+
 ## v0.3.0 - An age of exploration
 This update focuses on the world players inhabit, trying to spice it up (while
 still remaining true to the essence of Make²). The mods selected were picked
