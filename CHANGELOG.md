@@ -1,5 +1,32 @@
 # Changelog
 
+## v0.5.0 - Off to Le Cordon Bleu
+Finally expanding more on the presence of Farmers Delight, this update adds a
+few mods that hopefully play into the food-growing-farming fantasy that many
+players find themselves attached to when playing Minecraft. In addition, a bit
+of focus on fishing (not normally expanded on).
+
+Seeking some kind of complexity, the addition of a seasons mod was considered.
+The impact may not be large but should add, if nothing else, a little light
+roleplay element.
+
+A small touch up of world generate is also done, focusing on the trees (mostly
+because it does add to the feeling that the world grows regardless of your
+direct interaction - even if this isn't really the case).
+
+The mods added were:
+
+* [+] [Dynamic Trees](https://modrinth.com/mod/dynamictrees)
+* [+] [Quality Food](https://modrinth.com/mod/quality-food)
+* [+] [Tide](https://modrinth.com/mod/tide)
+* [+] [Spice of Life Onion](https://modrinth.com/mod/spice-of-life-onion)
+
+And dependencies:
+
+* [+] [Cloth Config API](https://modrinth.com/mod/cloth-config)
+* [+] [CreativeCore](https://modrinth.com/mod/creativecore)
+
+
 ## v0.4.0 - Versioning is hard
 Many great mods only support the slightly newer Minecraft 1.21.1 - when first
 working on this pack, the assumption was made that holding back would broaden

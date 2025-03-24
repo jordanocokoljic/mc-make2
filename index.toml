@@ -10,8 +10,23 @@ hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "2b7e219bada386ccaef89cfc13e67a0f8420728d73bfb8519f27b8c96615182b"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "bf772f94e01174fd88ef82a7a3cf21874f4f94fe73c42e0692657db7d63dac61"
 metafile = true
 
 [[files]]
@@ -32,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "2d77b9bf28cab8308467ca7ed94bfa45435e72d8e9ea32dd872df60b89a6dc44"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
 metafile = true
 
 [[files]]
@@ -70,8 +90,28 @@ hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
 metafile = true
 
 [[files]]
+file = "mods/quality-food.pw.toml"
+hash = "ab5d7e4cfd3d124872f0fcf6c16d883d63fb0111febc94f2b804f2dfcc777cf4"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "73b1e4f6608fcd396acc3e4e7aa753d314c8810ef4caf831ed93d9932d93f896"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "347cac2ed12c9bc0561b6a59eeb4c121b10e5f3f71d54e9bf8d1343af57ef5b8"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-onion.pw.toml"
+hash = "fea947009193af438daef14883673d465081379c90b5283a0257a18e1ba42650"
+metafile = true
+
+[[files]]
+file = "mods/tide.pw.toml"
+hash = "7f8ff3c91f7306a62e65f8d9d431b5c40706cdb63697a39aa1aa54d909000d17"
 metafile = true
 
 [[files]]
